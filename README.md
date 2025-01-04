@@ -1,5 +1,3 @@
-# seasons-of-change
-DART 205 Independent Study Installation
 # Seasons of Change
 
 Seasons of Change is an interactive installation that uses a Kinect sensor to detect motion and overlay seasonal colors onto a video in real-time. This project leverages the KinectPV2 library and Processing to create an immersive and dynamic visual experience.
