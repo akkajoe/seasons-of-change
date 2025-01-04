@@ -19,7 +19,6 @@ Seasons of Change is an interactive installation that uses a Kinect sensor to de
     - [Overlaying Colors](#overlaying-colors)
 - [Controls](#controls)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Installation and Setup
 
